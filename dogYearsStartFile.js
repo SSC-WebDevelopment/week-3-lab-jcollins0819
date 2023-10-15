@@ -1,4 +1,19 @@
-//store the value of my current age
+<!DOCTYPE html>
+<html>
+<!--
+Exam 1
+James Collins
+JavaScript WDD221-004
+Hancock
+-->
+<head>
+    <meta charset="UTF-8" />
+    <title>Dog Years/title>
+</head> 
+
+<body>
+
+<script></script>//store the value of my current age
 const myAge
 
 //store the value of 2
